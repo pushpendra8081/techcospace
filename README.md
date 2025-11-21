@@ -25,3 +25,10 @@
 - Add more metrics and units handling.
 - Integrate remote sync.
 - Add detailed accessibility audit with Focus traversal.
+
+## Video
+
+
+https://github.com/user-attachments/assets/c0b92503-32fd-456c-9aa7-524c2e77b58e
+
+
